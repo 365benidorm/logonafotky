@@ -1,0 +1,17 @@
+{
+  "name": "Logo na fotky – Benidorm Expats",
+  "short_name": "Logo na fotky",
+  "description": "Přidá logo Benidorm Expats na fotky a připraví je pro Instagram.",
+  "lang": "cs",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08182B",
+  "theme_color": "#08182B",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
