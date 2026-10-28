@@ -1,5 +1,5 @@
 // Logo na fotky – offline cache
-const CACHE = 'lnf-29bc4d1797';
+const CACHE = 'lnf-4ace9e4b95';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
 
 self.addEventListener('install', e => {
